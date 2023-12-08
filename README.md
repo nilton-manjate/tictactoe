@@ -7,7 +7,7 @@ displaying a message at the end of each game to inform the user whether they won
 
 ## How to Play
 
-Access the game [here](https://nilton-manjate.github.io/tic-tac-toe) to start playing.
+Access the game [here](https://nilton-manjate.github.io/tictactoe) to start playing.
 
 
 ## Features
